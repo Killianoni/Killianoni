@@ -11,8 +11,8 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Killianoni&repo=MovieTracker" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Killianoni&repo=MovieTracker&theme=midnight-purple" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Killianoni&repo=Alphanotes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Killianoni&repo=Alphanotes&theme=midnight-purple" />
 </a>
