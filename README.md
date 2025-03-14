@@ -1,3 +1,4 @@
- - iOS french developper 🍎
+![header](https://capsule-render.vercel.app/api?type=Blur&color=auto&height=300&section=header&text=iOS%20Developper&fontSize=90)
 
-[![Killianoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killianoni&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Killianoni&theme=solarized)](github.com/Killianoni) [![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Killianoni&theme=solarized)](github.com/Killianoni)
+
