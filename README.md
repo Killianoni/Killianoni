@@ -4,7 +4,7 @@
 ## 🚀 Currently Working On  
 🥗 [**FreeMyCals:**](https://apps.apple.com/us/app/freemycals-suivi-de-calories/id6737741250) Macros tracker app
 
-🛠️ [**Tabbar:**](https://github.com/Killianoni/TabBar): A SwiftUI custom TabView package allowing to fully custom your tabbar
+🛠️ [**Tabbar:**](https://github.com/Killianoni/TabBar) A SwiftUI custom TabView package allowing to fully custom your tabbar
 
 🍃 Scenty: An iOS Fragrantica like app
 
